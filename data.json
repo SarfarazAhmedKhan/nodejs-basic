@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "id1",
+    "userId": 80778,
+    "mac": "mac1",
+    "name": "Living & Dining Room"
+  },
+  {
+    "uuid": "id2",
+    "userId": 80778,
+    "mac": "mac2",
+    "name": "Bed Room"
+  },
+  {
+    "uuid": "id3",
+    "userId": 80778,
+    "mac": "mac3",
+    "name": "Kitchen"
+  }
+]
